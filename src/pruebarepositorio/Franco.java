@@ -11,5 +11,6 @@ package pruebarepositorio;
  */
 public class Franco {
     
-   
+   private String nombre;
+   //variable de nombre
 }
